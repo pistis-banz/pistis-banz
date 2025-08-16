@@ -10,7 +10,7 @@
 ## 💡 À propos de moi
 - 🎓 Étudiant en informatique, spécialisé en **développement web fullstack**  
 - ⚡ Expérience pratique avec des projets personnels 
-- 🔒 Intérêt particulier pour la **sécurité** (authentification JWT, rotation sécurisée, cookies HttpOnly)  
+- 🔒 Intérêt particulier pour le **backend**  
 - 🎨 J’aime concevoir des interfaces modernes avec **React + Tailwind + shadcn/ui**  
 - 📚 Toujours en apprentissage : j’expérimente régulièrement avec **AdonisJS** et **MongoDB**  
 
