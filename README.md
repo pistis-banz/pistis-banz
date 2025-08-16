@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Pistis  
 
-<!--
-**pistis-banz/pistis-banz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Développeur Web Fullstack** | Passionné par **React · Node.js · TypeScript**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 À propos de moi
+- 🎓 Étudiant en informatique, spécialisé en **développement web et mobile**  
+- ⚡ Expérience pratique avec des projets personnels (Pinterest / Instagram clone, mini-réseau social, chat temps réel)  
+- 🔒 Intérêt particulier pour la **sécurité** (authentification JWT, rotation sécurisée, cookies HttpOnly)  
+- 🎨 J’aime concevoir des interfaces modernes avec **React + Tailwind + shadcn/ui**  
+- 📚 Toujours en apprentissage : j’expérimente régulièrement avec **AdonisJS** et **MongoDB**  
+
+---
+
+## 🛠️ Stack & Outils
+
+### Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
+![shadcn](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge&logo=radix-ui&logoColor=fff)
+
+### Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=fff)  
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+### Outils  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+
+---
+
+## 📌 Projets phares
+- 📷 **Photozone** : site vitrine pour agence graphique (logos, flyers, identité visuelle)  
+- 🖼️ **Pinterest / Instagram clone** : interface avec React + Tailwind + shadcn/ui  
+- 💬 **Chat temps réel** avec AdonisJS & WebSockets  
+- 🔑 **Système d’authentification sécurisé** (JWT rotation, refresh en cookies HttpOnly, Node.js/React)
+
+---
+
+## 📊 Statistiques GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=pistis&show_icons=true&theme=radical)  
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=pistis&layout=compact&theme=radical)
+
+---
+
+## 📫 Me contacter
+- ✉️ **Email** : pistis@example.com  
+- 💼 **LinkedIn** : [linkedin.com/in/pistis](#)  
+- 💻 **Portfolio** : [pistis.dev](#)
+
+---
+
+✨ *"Construire des applications modernes, performantes et sécurisées."*  
