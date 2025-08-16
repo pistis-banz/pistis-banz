@@ -20,21 +20,21 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=radix-ui&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=radix-ui&logoColor=fff" style="margin: 5px;" />
   <br/>
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" style="margin: 5px;" />
   <br/>
   <!-- Outils -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" style="margin: 5px;" />
 </p>
 
 ### Outils  
