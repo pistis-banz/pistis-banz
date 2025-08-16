@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+,+je+suis+Pistis+Banzietele;Développeur+Web+Fullstack;React+·+Node.js+·+TypeScript;Toujours+en+apprentissage+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=je+suis+Pistis+Banzietele;Développeur+Web+Fullstack;React+·+Node.js+·+express+mongodb" alt="Typing SVG" />
 </h1>
 # Bienvenue sur mon profil github  
 
