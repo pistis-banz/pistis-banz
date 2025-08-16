@@ -1,12 +1,12 @@
-# 👋 Salut, moi c’est Pistis  
+# Bienvenue sur mon profil github  
 
-🚀 **Développeur Web Fullstack** | Passionné par **React · Node.js · TypeScript**
+🚀 **Développeur Web Fullstack** | **React · Node.js · express · adonisjs**
 
 ---
 
 ## 💡 À propos de moi
-- 🎓 Étudiant en informatique, spécialisé en **développement web et mobile**  
-- ⚡ Expérience pratique avec des projets personnels (Pinterest / Instagram clone, mini-réseau social, chat temps réel)  
+- 🎓 Étudiant en informatique, spécialisé en **développement web fullstack**  
+- ⚡ Expérience pratique avec des projets personnels 
 - 🔒 Intérêt particulier pour la **sécurité** (authentification JWT, rotation sécurisée, cookies HttpOnly)  
 - 🎨 J’aime concevoir des interfaces modernes avec **React + Tailwind + shadcn/ui**  
 - 📚 Toujours en apprentissage : j’expérimente régulièrement avec **AdonisJS** et **MongoDB**  
@@ -35,24 +35,20 @@
 ---
 
 ## 📌 Projets phares
-- 📷 **Photozone** : site vitrine pour agence graphique (logos, flyers, identité visuelle)  
-- 🖼️ **Pinterest / Instagram clone** : interface avec React + Tailwind + shadcn/ui  
-- 💬 **Chat temps réel** avec AdonisJS & WebSockets  
+- 🖼️ **Photozone / Instagram clone** : interface avec React + Tailwind + shadcn/ui  
 - 🔑 **Système d’authentification sécurisé** (JWT rotation, refresh en cookies HttpOnly, Node.js/React)
 
 ---
 
 ## 📊 Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=pistis&show_icons=true&theme=radical)  
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=pistis&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=pistis-banz&show_icons=true&theme=radical)  
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=pistis-banz&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Me contacter
-- ✉️ **Email** : pistis@example.com  
-- 💼 **LinkedIn** : [linkedin.com/in/pistis](#)  
-- 💻 **Portfolio** : [pistis.dev](#)
-
+- ✉️ **Email** : pistisbasolua@gmail.com  
+- 💼 **LinkedIn** : [https://www.linkedin.com/in/pistis-banzietele-036441303/](#)  
 ---
 
 ✨ *"Construire des applications modernes, performantes et sécurisées."*  
