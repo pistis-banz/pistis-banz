@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Salut+👋,+je+suis+Pistis+Banzietele;Développeur+Web+Fullstack;React+·+Node.js+·+TypeScript;Toujours+en+apprentissage+🚀" alt="Typing SVG" />
+</h1>
 # Bienvenue sur mon profil github  
 
 🚀 **Développeur Web Fullstack** | **React · Node.js · express · adonisjs**
