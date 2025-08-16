@@ -44,12 +44,6 @@
 
 ---
 
-## 📌 Projets phares
-- 🖼️ **Photozone / Instagram clone** : interface avec React + Tailwind + shadcn/ui  
-- 🔑 **Système d’authentification sécurisé** (JWT rotation, refresh en cookies HttpOnly, Node.js/React)
-
----
-
 ## 📊 Statistiques GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=pistis-banz&show_icons=true&theme=radical)  
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=pistis-banz&layout=compact&theme=radical)
