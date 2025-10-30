@@ -7,16 +7,16 @@
 
 ---
 
-## 💡 À propos de moi
-- 🎓 Étudiant en informatique, spécialisé en **développement web fullstack**  
-- ⚡ Expérience pratique avec des projets personnels 
-- 🔒 Intérêt particulier pour le **backend**  
-- 🎨 J’aime concevoir des interfaces modernes avec **React + Tailwind + shadcn/ui**  
-- 📚 Toujours en apprentissage : j’expérimente régulièrement avec **AdonisJS** et **MongoDB**  
+##  À propos de moi
+-  Étudiant en informatique, spécialisé en **développement web fullstack**  
+-  Expérience pratique avec des projets personnels 
+-  Intérêt particulier pour le **backend**  
+-  J’aime concevoir des interfaces modernes avec **React + Tailwind + shadcn/ui**  
+-  Toujours en apprentissage : j’expérimente régulièrement avec **AdonisJS** et **MongoDB**  
 
 ---
 
-## 🛠️ Stack & Outils
+##  Stack & Outils
 
 <p align="center">
   <!-- Frontend -->
@@ -45,9 +45,7 @@
 
 ---
 
-## 📫 Me contacter
-- ✉️ **Email** : pistisbasolua@gmail.com  
-- 💼 **LinkedIn** : [https://www.linkedin.com/in/pistis-banzietele-036441303/](#)  
+##  Me contacter
+-  **Email** : pistisbasolua@gmail.com  
+-  **LinkedIn** : [https://www.linkedin.com/in/pistis-banzietele-036441303/](#)  
 ---
-
-✨ *"Construire des applications modernes, performantes et sécurisées."*  
